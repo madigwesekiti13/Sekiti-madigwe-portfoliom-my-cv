@@ -1,5 +1,5 @@
-# Sekiti-madigwe-portfoliom-my-cv
-My cv learnership opportunity
+# Sekiti-madigwe-portfoliom-my-CV
+My CV learnership opportunity
 README 
 
 Sekiti Madigwe:  Professional Portfolio
